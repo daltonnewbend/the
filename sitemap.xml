@@ -2,17 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://thepapers.newbend.art/journal/cold-and-busy/</loc>
+    <lastmod>2026-01-02T13:52:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thepapers.newbend.art/journal/</loc>
+    <lastmod>2026-01-02T13:52:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thepapers.newbend.art/</loc>
+    <lastmod>2026-01-02T13:52:00+00:00</lastmod>
+  </url><url>
     <loc>https://thepapers.newbend.art/fictionaries/</loc>
     <lastmod>2025-12-29T05:10:00+00:00</lastmod>
   </url><url>
     <loc>https://thepapers.newbend.art/fictionaries/sigrid/</loc>
     <lastmod>2025-12-29T05:10:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thepapers.newbend.art/</loc>
-    <lastmod>2025-12-29T05:10:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thepapers.newbend.art/journal/</loc>
-    <lastmod>2025-12-04T10:12:00+00:00</lastmod>
   </url><url>
     <loc>https://thepapers.newbend.art/journal/salt/</loc>
     <lastmod>2025-12-04T10:12:00+00:00</lastmod>
@@ -88,8 +91,6 @@
   </url><url>
     <loc>https://thepapers.newbend.art/birds/black-billed-magpie/</loc>
     <lastmod>2017-07-15T18:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thepapers.newbend.art/birds/_list/</loc>
   </url><url>
     <loc>https://thepapers.newbend.art/birds/american-robin/</loc>
   </url><url>
@@ -179,13 +180,9 @@
   </url><url>
     <loc>https://thepapers.newbend.art/recipes/easter-biscuits/</loc>
   </url><url>
-    <loc>https://thepapers.newbend.art/tags/eggs/</loc>
-  </url><url>
     <loc>https://thepapers.newbend.art/tags/fall/</loc>
   </url><url>
     <loc>https://thepapers.newbend.art/recipes/fionas-scones/</loc>
-  </url><url>
-    <loc>https://thepapers.newbend.art/recipes/fruit-pie/</loc>
   </url><url>
     <loc>https://thepapers.newbend.art/tags/icing/</loc>
   </url><url>
@@ -194,6 +191,8 @@
     <loc>https://thepapers.newbend.art/recipes/joshuas-favorite-chicken/</loc>
   </url><url>
     <loc>https://thepapers.newbend.art/tags/lemon/</loc>
+  </url><url>
+    <loc>https://thepapers.newbend.art/birds/life-list/</loc>
   </url><url>
     <loc>https://thepapers.newbend.art/tags/lunch/</loc>
   </url><url>
