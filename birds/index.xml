@@ -213,13 +213,6 @@
     </item>
     <item>
       <title></title>
-      <link>https://thepapers.newbend.art/birds/mallard/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://thepapers.newbend.art/birds/mallard/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title></title>
       <link>https://thepapers.newbend.art/birds/northern-house-wren/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://thepapers.newbend.art/birds/northern-house-wren/</guid>
@@ -287,6 +280,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://thepapers.newbend.art/birds/black-capped-chickadee/</guid>
       <description></description>
+    </item>
+    <item>
+      <title>Mallard</title>
+      <link>https://thepapers.newbend.art/birds/mallard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://thepapers.newbend.art/birds/mallard/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
